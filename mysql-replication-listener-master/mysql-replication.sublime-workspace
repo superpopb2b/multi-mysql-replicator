@@ -1,0 +1,1239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"notic",
+				"NoticeItem"
+			],
+			[
+				"no",
+				"NoticeItem"
+			],
+			[
+				"mai",
+				"maillist"
+			],
+			[
+				"Mo",
+				"Monitor"
+			],
+			[
+				"Moni",
+				"MonitorConfig"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"conf",
+				"conf_file_path"
+			],
+			[
+				"S",
+				"STOP"
+			],
+			[
+				"print",
+				"print_usage"
+			],
+			[
+				"Se",
+				"SettingNotFoundException"
+			],
+			[
+				"noti",
+				"noticeList"
+			],
+			[
+				"mail",
+				"mailto"
+			],
+			[
+				"config",
+				"configure"
+			],
+			[
+				"conne",
+				"connected"
+			],
+			[
+				"ht",
+				"htmlText"
+			],
+			[
+				"restart",
+				"restart_time"
+			],
+			[
+				"zc",
+				"zkconf"
+			],
+			[
+				"zk",
+				"SERVICE_PATH_IN_ZK"
+			],
+			[
+				"au",
+				"AUTO_ENABLE_TIME_INTVAL"
+			],
+			[
+				"ZK",
+				"SERVICE_PATH_IN_ZK"
+			],
+			[
+				"AU",
+				"AUTO_ENABLE_TIME_INTVAL"
+			],
+			[
+				"zkcli",
+				"zkclient"
+			],
+			[
+				"ex",
+				"Exception"
+			],
+			[
+				"zkcl",
+				"zkclient"
+			],
+			[
+				"log",
+				"LOG_TAIL"
+			],
+			[
+				"sessio",
+				"sessionkey"
+			],
+			[
+				"se",
+				"secretkey"
+			],
+			[
+				"n",
+				"None"
+			],
+			[
+				"sig",
+				"sigsource"
+			],
+			[
+				"Lo",
+				"LoginReq"
+			],
+			[
+				"PARA",
+				"parameter_str"
+			],
+			[
+				"XOA",
+				"XOA_INFO"
+			],
+			[
+				"po",
+				"Post"
+			],
+			[
+				"XOA_",
+				"XOA_WARN"
+			],
+			[
+				"curl",
+				"curl_easy_setopt"
+			],
+			[
+				"para",
+				"parameter"
+			],
+			[
+				"pa",
+				"parameter"
+			],
+			[
+				"parameter",
+				"parameter_item"
+			],
+			[
+				"sigs",
+				"sigsource"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"diges",
+				"digeststr"
+			],
+			[
+				"stat",
+				"static_cast"
+			],
+			[
+				"pare",
+				"parameter"
+			],
+			[
+				"http",
+				"HttpClient"
+			],
+			[
+				"i",
+				"init"
+			],
+			[
+				"Poun",
+				"PoundStream"
+			],
+			[
+				"vo",
+				"volumn"
+			],
+			[
+				"NUM",
+				"NUM_POUND"
+			],
+			[
+				"cont",
+				"const_iterator"
+			],
+			[
+				"NUM_",
+				"NUM_PIPE"
+			],
+			[
+				"nu",
+				"numOfEdge"
+			],
+			[
+				"ge",
+				"generateLevelTable"
+			],
+			[
+				"get",
+				"getMaxStream"
+			],
+			[
+				"num",
+				"numOfPound"
+			],
+			[
+				"pou",
+				"Pound"
+			],
+			[
+				"s",
+				"stringstream"
+			],
+			[
+				"his",
+				"history"
+			],
+			[
+				"base",
+				"baseRep"
+			],
+			[
+				"Get",
+				"GetMsgResponse"
+			],
+			[
+				"history",
+				"historyItem"
+			],
+			[
+				"FLAG",
+				"FLAGS_usrid"
+			],
+			[
+				"int",
+				"int64_t"
+			],
+			[
+				"Re",
+				"ReceiveOnce"
+			],
+			[
+				"client_fa",
+				"client_factory_ptr"
+			],
+			[
+				"client",
+				"client_factory"
+			],
+			[
+				"clien",
+				"client_factory"
+			],
+			[
+				"void",
+				"void_completion"
+			],
+			[
+				"wa",
+				"watcherCtx"
+			],
+			[
+				"TIM",
+				"time"
+			],
+			[
+				"cli",
+				"clientSys"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "examples/basic-1.cpp",
+			"settings":
+			{
+				"buffer_size": 824,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/binary_log.cpp",
+			"settings":
+			{
+				"buffer_size": 2775,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/basic_content_handler.cpp",
+			"settings":
+			{
+				"buffer_size": 3708,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/basic_content_handler.h",
+			"settings":
+			{
+				"buffer_size": 2787,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 71 files for \"set_injection_queue\" (case sensitive, whole word)\n\nC:\\Users\\Administrator\\Desktop\\mysql-replication-listener-master\\.tags:\n  610  server_var_decoder	.\\src\\utilities.cpp	/^int server_var_decoder (std::map<std::string, mysql::Value> *my_var_map,$/;\"	f	namespace:mysql\n  611  server_version_str	.\\include\\protocol.h	/^  std::string server_version_str;$/;\"	m	struct:mysql::system::st_handshake_package\n  612: set_injection_queue	.\\src\\basic_content_handler.cpp	/^void Content_handler::set_injection_queue(Injection_queue *queue)$/;\"	f	class:mysql::Content_handler\n  613  set_length_encoded_binary	.\\include\\protocol.h	/^  void set_length_encoded_binary(bool bswitch) { m_length_encoded_binary= bswitch; }$/;\"	f	class:mysql::system::Protocol\n  614  set_position	.\\include\\binlog_api.h	/^  virtual int set_position(const std::string &str, unsigned long position) {$/;\"	f	class:mysql::Dummy_driver\n\nC:\\Users\\Administrator\\Desktop\\mysql-replication-listener-master\\include\\basic_content_handler.h:\n   71  private:\n   72    Injection_queue *m_reinject_queue;\n   73:   void set_injection_queue(Injection_queue *injection_queue);\n   74    mysql::Binary_log_event *internal_process_event(mysql::Binary_log_event *ev);\n   75  \n\nC:\\Users\\Administrator\\Desktop\\mysql-replication-listener-master\\src\\basic_content_handler.cpp:\n   40  }\n   41  \n   42: void Content_handler::set_injection_queue(Injection_queue *queue)\n   43  {\n   44    m_reinject_queue= queue;\n\nC:\\Users\\Administrator\\Desktop\\mysql-replication-listener-master\\src\\binary_log.cpp:\n   71        if (event)\n   72        {\n   73:         handler->set_injection_queue(&reinjection_queue);\n   74          event= handler->internal_process_event(event);\n   75        }\n\n5 matches across 4 files\n\n\nSearching 71 files for \"m_reinject_queue\" (case sensitive, whole word)\n\nC:\\Users\\Administrator\\Desktop\\mysql-replication-listener-master\\.tags:\n  453  m_port	.\\include\\tcp_driver.h	/^    long m_port;$/;\"	m	class:mysql::system::Binlog_tcp_driver\n  454  m_ptr	.\\include\\protocol.h	/^    int m_ptr;$/;\"	m	class:mysql::system::buffer_source\n  455: m_reinject_queue	.\\include\\basic_content_handler.h	/^  Injection_queue *m_reinject_queue;$/;\"	m	class:mysql::Content_handler\n  456  m_row_count	.\\include\\resultset_iterator.h	/^    int m_row_count;$/;\"	m	class:mysql::Result_set\n  457  m_row_event	.\\include\\field_iterator.h	/^    const Row_event *m_row_event;$/;\"	m	class:mysql::Row_event_iterator\n\nC:\\Users\\Administrator\\Desktop\\mysql-replication-listener-master\\include\\basic_content_handler.h:\n   70  \n   71  private:\n   72:   Injection_queue *m_reinject_queue;\n   73    void set_injection_queue(Injection_queue *injection_queue);\n   74    mysql::Binary_log_event *internal_process_event(mysql::Binary_log_event *ev);\n\nC:\\Users\\Administrator\\Desktop\\mysql-replication-listener-master\\src\\basic_content_handler.cpp:\n   37  Injection_queue *Content_handler::get_injection_queue(void)\n   38  {\n   39:   return m_reinject_queue;\n   40  }\n   41  \n   42  void Content_handler::set_injection_queue(Injection_queue *queue)\n   43  {\n   44:   m_reinject_queue= queue;\n   45  }\n   46  \n\n5 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 3161,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "src/access_method_factory.cpp",
+			"settings":
+			{
+				"buffer_size": 3971,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/tcp_driver.h",
+			"settings":
+			{
+				"buffer_size": 7845,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/file_driver.h",
+			"settings":
+			{
+				"buffer_size": 1846,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/binlog_api.h",
+			"settings":
+			{
+				"buffer_size": 3914,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tcp_driver.cpp",
+			"settings":
+			{
+				"buffer_size": 24595,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/resultset_iterator.h",
+			"settings":
+			{
+				"buffer_size": 5153,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package control setting",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/mysql-replication-listener-master/include/protocol.h",
+		"/C/Users/Administrator/Desktop/mysql-replication-listener-master/include/value.h",
+		"/C/Users/Administrator/Desktop/mysql-replication-listener-master/include/row_of_fields.h",
+		"/C/Users/Administrator/Desktop/mysql-replication-listener-master/src/resultset_iterator.cpp",
+		"/C/Users/Administrator/Desktop/mysql-replication-listener-master/src/value.cpp",
+		"/C/Users/Administrator/Desktop/mysql-replication-listener-master/include/bounded_buffer.h",
+		"/C/Users/Administrator/Desktop/mysql-replication-listener-master/include/basic_content_handler.h",
+		"/C/Users/Administrator/Desktop/mysql-replication-listener-master/src/binlog_driver.cpp",
+		"/C/Users/Administrator/Desktop/xoa2_env_2/xoa-core/xoa2-core/xoa2/client/bind_client_pool.h",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR06.722/libconfig-1.4.9/examples/c++/example1.cpp",
+		"/C/Users/Administrator/Desktop/zkmonitor/poster/messager.py",
+		"/C/Users/Administrator/Desktop/zkmonitor/poster/mailer.py",
+		"/C/Users/Administrator/Desktop/zkmonitor/poster/server.py",
+		"/C/Users/Administrator/Desktop/zkmonitor/poster/handler.py",
+		"/C/Users/Administrator/Desktop/xoa2_env_2/xcs-core/xcs/zkclient.h",
+		"/C/Users/Administrator/Desktop/xoa2_env_2/xcs-core/xcs/zkclient.cc",
+		"/C/Users/Administrator/AppData/Local/Temp/xoa_service.h",
+		"/C/Users/Administrator/Desktop/configer.h",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DI03.409/parser.hpp",
+		"/C/Users/Administrator/Documents/Tencent Files/602471066/FileRecv/IncSyncDataService.thrift",
+		"/C/Users/Administrator/Desktop/xoabase.thrift",
+		"/C/Users/Administrator/Desktop/increment.thrift",
+		"/D/My Programs/nsync-friend-demo/getfriends_handler.h",
+		"/C/Users/Administrator/Desktop/oce/XiaozuXoa2Adapter.h",
+		"/C/Users/Administrator/Documents/Tencent Files/602471066/FileRecv/thrift/IncSyncDataService.thrift",
+		"/C/Users/Administrator/Desktop/scm/idl/thrift/xma/friends/increment.thrift",
+		"/C/Users/Administrator/Desktop/APService/ap_server/APServiceHandler.cc",
+		"/C/Users/Administrator/Desktop/APService/ap_server/APServiceHandler.h",
+		"/C/Users/Administrator/Desktop/APService/ap_server/http_client_pool.h",
+		"/C/Users/Administrator/Desktop/oce/XiaozuXoa2Adapter.cpp",
+		"/C/Users/Administrator/Desktop/xoa2_env_2/xcs-core/xcs/service_registry_accessor.cc",
+		"/C/Users/Administrator/Desktop/oce/XiaozuXoa2NewAdapter.h",
+		"/C/Users/Administrator/Desktop/oce/XiaozuXoa2NewAdapter.cpp",
+		"/C/Users/Administrator/Desktop/xoa2_env_2/xoa-core/xoa2-core/xoa2/client/xcs_client_pool.h",
+		"/C/Users/Administrator/Desktop/IceBox/hello/Hello.ice",
+		"/C/Users/Administrator/Desktop/IceBox/hello/config.icebox",
+		"/C/Users/Administrator/Desktop/IceBox/hello/Client.cpp",
+		"/C/Users/Administrator/Desktop/IceGrid/simple/Server.cpp",
+		"/C/Users/Administrator/Desktop/IceGrid/simple/HelloI.h",
+		"/C/Users/Administrator/Desktop/IceGrid/simple/HelloI.cpp",
+		"/C/Users/Administrator/Desktop/IceBox/hello/HelloI.cpp",
+		"/C/Users/Administrator/Desktop/IceBox/hello/HelloServiceI.h",
+		"/C/Users/Administrator/Desktop/IceBox/hello/config.client",
+		"/C/Users/Administrator/Desktop/IceGrid/README",
+		"/C/Users/Administrator/Desktop/IceBox/hello/HelloI.h",
+		"/C/Users/Administrator/Desktop/OceCxxAdapter/src/UserCacheAdapter.h",
+		"/C/Users/Administrator/Desktop/server.py",
+		"/C/Users/Administrator/Desktop/handler.py",
+		"/C/Users/Administrator/Desktop/xoa2_env_2/xcs-core/xcs/service_registry_accessor.h",
+		"/C/Users/Administrator/Desktop/IceGrid/icebox/Client.cpp",
+		"/C/Users/Administrator/Desktop/OceCxxAdapter/src/UserCacheAdapter.cpp",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR07.658/libconfig-1.4.9/examples/c++/example.cfg",
+		"/C/Users/Administrator/Desktop/getfriends_handler.h",
+		"/C/Users/Administrator/Desktop/item.h",
+		"/C/Users/Administrator/Desktop/binlogop_handler.h",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR45.775/libconfig-1.4.9/lib/libconfig.h++",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR52.975/libconfig-1.4.9/lib/libconfigcpp.c++",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR44.735/libconfig-1.4.9/lib/libconfigcpp.cc",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DI33.871/libconfigcpp.c++",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR01.370/libconfig-1.4.9/examples/c++/example1.cpp",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR02.826/libconfig-1.4.9/examples/c++/example.cfg",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR26.057/libconfig-1.4.9/examples/c++/example4.cpp",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR01.843/libconfig-1.4.9/examples/c++/example.cfg",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR01.843/libconfig-1.4.9/examples/c++/example1.cpp",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR01.843/libconfig-1.4.9/examples/c++/example2.cpp",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR01.843/libconfig-1.4.9/examples/c++/example3.cpp",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR01.843/libconfig-1.4.9/examples/c++/invalid.cfg",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR01.843/libconfig-1.4.9/examples/c++/example4.cpp",
+		"/C/Users/Administrator/AppData/Local/Temp/service_registry_accessor.h",
+		"/C/Users/Administrator/Desktop/OceCxxAdapter/test/share/TripodSimpleAdapterTest.h",
+		"/C/Users/Administrator/Desktop/IceBox/hello/HelloServiceI.cpp",
+		"/C/Users/Administrator/Desktop/gen-cpp/ShakeService.h",
+		"/C/Users/Administrator/Desktop/gen-cpp/ShakeService.cpp",
+		"/C/Users/Administrator/Desktop/gen-cpp/ShakeService_server.skeleton.cpp",
+		"/F/syslinux/isolinux.cfg",
+		"/C/Users/Administrator/Desktop/Collector/configure.py",
+		"/C/Users/Administrator/Desktop/Collector/conf",
+		"/C/Users/Administrator/Desktop/Collector/mailer.py",
+		"/C/Users/Administrator/Desktop/Collector/client.cron",
+		"/C/Users/Administrator/Desktop/Collector/server.cron",
+		"/C/Users/Administrator/Desktop/Collector/monitor-start.py",
+		"/C/Users/Administrator/Desktop/Collector/monitor-stop.py",
+		"/C/Users/Administrator/Desktop/Collector/zkutil.py",
+		"/C/Users/Administrator/Desktop/Collector/server.py",
+		"/C/Users/Administrator/Desktop/Collector/handler.py",
+		"/C/Users/Administrator/Desktop/Collector/client.py",
+		"/C/Users/Administrator/Desktop/Collector/collector.thrift",
+		"/C/Users/Administrator/Desktop/py/xcs_core/zk_core/ZkClient.py",
+		"/C/Users/Administrator/Desktop/py/xcs_core/zk_core/conf",
+		"/C/Users/Administrator/Desktop/ATT00001.htm",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DI05.055/setup.py",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DI02.673/client.py",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DI49.638/harness.py",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DI26.952/test_client.py",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DI12.426/security.py",
+		"/C/Users/Administrator/Desktop/kazoo/handlers/threading.py",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DI92.293/setup.py",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DI08.922/util.py",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DI05.146/test_build.py",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DI85.683/common.py",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DI01.409/__init__.py",
+		"/C/Users/Administrator/Desktop/bin-client/conf/config",
+		"/C/Users/Administrator/Desktop/bin-client/monitor/perf/filehandler.py",
+		"/C/Users/Administrator/Desktop/Collector/filehandler.py",
+		"/C/Users/Administrator/Desktop/bin-client/monitor/perf/mail.py",
+		"/C/Users/Administrator/Desktop/Collector/mailer",
+		"/C/Users/Administrator/Desktop/bin-client/monitor/report.py",
+		"/C/Users/Administrator/Desktop/pydev/.ropeproject/config.py",
+		"/C/Users/Administrator/Desktop/pydev/monitor/perf/mail.py",
+		"/C/Users/Administrator/Desktop/pydev/monitor/server.py",
+		"/C/Users/Administrator/Desktop/parser.cc",
+		"/C/Users/Administrator/Desktop/bin-client/monitor/server.py",
+		"/C/Users/Administrator/Desktop/pydev/monitor/report.py",
+		"/C/Users/Administrator/Desktop/bin/idl/collector.thrift",
+		"/C/Users/Administrator/Desktop/bin/monitor/report.py",
+		"/C/Users/Administrator/Desktop/bin/monitor/server.py",
+		"/C/Users/Administrator/Desktop/bin/monitor/perf/filehandler.py",
+		"/C/Users/Administrator/Desktop/bin/monitor/.report.py.swp",
+		"/C/Users/Administrator/Desktop/mysql-5.6.14/sql/log_event.h",
+		"/C/Users/Administrator/Desktop/mysql-5.6.14/include/my_global.h",
+		"/C/Users/Administrator/Desktop/mysql-5.6.14/sql/binlog.cc",
+		"/C/Users/Administrator/Desktop/mysql-5.6.14/sql/binlog.h",
+		"/C/Users/Administrator/Desktop/mysql-5.6.14/include/my_dbug.h",
+		"/C/Users/Administrator/Desktop/mysql-5.6.14/mysys/mf_iocache.c",
+		"/C/Users/Administrator/Desktop/mysql-5.6.14/mysys/my_open.c",
+		"/C/Users/Administrator/Desktop/mysql-5.6.14/include/my_sys.h",
+		"/C/Users/Administrator/Desktop/mysql-5.6.14/client/client_priv.h",
+		"/C/Users/Administrator/Desktop/mysql-5.6.14/include/sql_common.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Administrator\\Desktop\\mysql-replication-listener-master",
+			"C:\\Users\\Administrator\\Desktop\\xoa2_env_2",
+			"C:\\Users\\Administrator\\Desktop\\zkmonitor",
+			"C:\\Users\\Administrator\\Desktop\\xoa2_env_2",
+			"C:\\Users\\Administrator\\Desktop\\xoa_env_2",
+			"C:\\Users\\Administrator\\Desktop\\oce\\xoa2",
+			"C:\\Users\\Administrator\\Desktop\\oce",
+			"C:\\Users\\Administrator\\Desktop\\tungsten-replicator-2.0.4-src",
+			"C:\\Users\\Administrator\\Desktop\\canal-master\\",
+			"C:\\Users\\Administrator\\Desktop\\canal-master\\parse",
+			"C:\\Users\\Administrator\\Desktop\\framework-trunk\\thrift-0.9.0\\lib\\py",
+			"C:\\Users\\Administrator\\Desktop\\framework-trunk\\",
+			"C:\\Users\\Administrator\\Desktop\\framework-trunk\\c++\\",
+			"C:\\Users\\Administrator\\Desktop\\framework-trunk\\c++\\xoa-core",
+			"C:\\Users\\Administrator\\Desktop\\framework-trunk\\thrift-0.9.0",
+			"C:\\Users\\Administrator\\Desktop\\framework-trunk\\c++\\thrift-0.9.0",
+			"C:\\Users\\Administrator\\Desktop\\framework-trunk\\c++\\xoa-core",
+			"C:\\Users\\Administrator\\Desktop\\framework-trunk\\",
+			"C:\\Users\\Administrator\\Desktop\\framework-trunk\\c++",
+			"C:\\Users\\Administrator\\Desktop\\APService"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"m_reinject_queue",
+			"set_injection_queue",
+			"get_injection_queue",
+			"m_io_service",
+			"GET_NEXT_PACKET_HEADER",
+			"handle_net_packet_header",
+			"handle_net_packet",
+			"m_event_queue",
+			"content_handler_pipeline",
+			"m_content_handlers",
+			"m_io_service",
+			"ValidPath",
+			"is_any_of",
+			"is_any",
+			"Read Config File",
+			"service_id_",
+			"LocalBindService",
+			"service_id_",
+			"load_xcs_conf_file",
+			"GetServiceStatus",
+			"set_use_http",
+			"HttpServer",
+			"use_http_",
+			"{\n",
+			"VerifyChangeRequest",
+			"GetUserIdResponse",
+			"Xoa2AdapterI.h",
+			"ServerStateSubscriber",
+			"XiaozuXoa2Adapter",
+			"Xoa2AdapterI",
+			"XOA2_RPC_CALL",
+			"loadXiaozuOfflineFeedReplyTask",
+			"EndPointClientMap",
+			"xcs",
+			"Callback",
+			"Listener",
+			"ListenersMap",
+			"watcher_thread_running_",
+			"vector",
+			"ector",
+			"ctor<",
+			"vector<",
+			"vector",
+			"genDataAFromProto",
+			"_adapter",
+			"realpath",
+			"SERVICE_NAME",
+			"password",
+			"auth_data",
+			"_get_client",
+			"test_bad_transaction",
+			"_get_client",
+			"error occur in",
+			"xmft",
+			"xmf",
+			"opt_hexdump",
+			"start_datetime",
+			"rec_count",
+			"short_form",
+			"print_event_info",
+			"key_thread_slave_sql",
+			"global_init_info",
+			"opt_verify_binlog_checksum",
+			"PRINT_EVENT_INFO",
+			"dump_local_log_entries",
+			"argc",
+			"CREATE_FILE_EVENT",
+			"UNKNOWN_EVENT",
+			"LogEvent",
+			"LogHeader",
+			"LogEvent",
+			"binlogParser",
+			"AbstractBinlogParser",
+			"BinlogParser",
+			"binlogParser",
+			"FileHandler",
+			"logging",
+			"stop",
+			"Make",
+			"notifyIOThread",
+			"transition",
+			"postWrite",
+			"eventHandler",
+			"workSocket",
+			"dispatchCall",
+			"TDispatchProcessor",
+			"COMPLETE",
+			"transition",
+			"real_processor_",
+			"Task",
+			"deadWorkers_",
+			"addWorker",
+			"setNumIOThreads",
+			"numIOThreads_",
+			"addWorker",
+			"workerCount_",
+			"idleCount_",
+			"setThreadManager",
+			"handleEvent",
+			"run",
+			"start",
+			"Get_Value_Add_Watch",
+			"min_log_level",
+			"Create",
+			"XoaProcessorEventHandler",
+			"ProcessContext",
+			"Make",
+			"numIOThreads_",
+			"virtual",
+			"getServerEventHandler",
+			"endpoint_list_invalid_",
+			"client_pool_map_",
+			"eventHandler_",
+			"XoaServerEventHandler",
+			"ioThreads_",
+			"write",
+			"TFramedTransport",
+			"TFrameTransport",
+			"processContext",
+			"OnSessionEvent",
+			"zoo_set_watcher",
+			"DoGetChildren",
+			"DoGetValue",
+			"TSocket",
+			"TFramedTransport",
+			"setServerEventHandler",
+			"HandlerType",
+			"helper_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"zookeeper",
+			"NUM_POUND",
+			"NUM_PIPE",
+			"num_pipe",
+			"num_pound",
+			"level_table_",
+			"level_of_each_pound_",
+			"streamVolumn",
+			"pounds",
+			"itPound",
+			"poundsInCurrentStream",
+			"poundListInCurrentStream",
+			"handleSingleStream",
+			"handleOneBatch",
+			"currentStreamVolumn",
+			"itNext",
+			"current",
+			"result",
+			"NUM_OF_PIPE",
+			"PoundStream",
+			"levelTable_",
+			"levelOfEachPound_",
+			"pound_",
+			"updatePound",
+			"levelOfEachPound",
+			"levelTable",
+			"levelList",
+			"NUM_OF_POUND",
+			"NUM_OF_EDGE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "examples/basic-1.cpp",
+					"settings":
+					{
+						"buffer_size": 824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								659
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/binary_log.cpp",
+					"settings":
+					{
+						"buffer_size": 2775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1800,
+								1819
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/basic_content_handler.cpp",
+					"settings":
+					{
+						"buffer_size": 3708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1899,
+								1915
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 530.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "include/basic_content_handler.h",
+					"settings":
+					{
+						"buffer_size": 2787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2564,
+								2583
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1083.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 3161,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										429,
+										448
+									],
+									[
+										505,
+										524
+									],
+									[
+										1088,
+										1107
+									],
+									[
+										1381,
+										1400
+									],
+									[
+										1617,
+										1636
+									],
+									[
+										2107,
+										2123
+									],
+									[
+										2179,
+										2195
+									],
+									[
+										2604,
+										2620
+									],
+									[
+										2967,
+										2983
+									],
+									[
+										3093,
+										3109
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								975,
+								976
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"output_tag": 2,
+							"remote_loading": false,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"synced": false,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/access_method_factory.cpp",
+					"settings":
+					{
+						"buffer_size": 3971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3598,
+								3646
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2126.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "include/tcp_driver.h",
+					"settings":
+					{
+						"buffer_size": 7845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5603,
+								5587
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2940.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "include/file_driver.h",
+					"settings":
+					{
+						"buffer_size": 1846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1545,
+								1545
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 741.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "include/binlog_api.h",
+					"settings":
+					{
+						"buffer_size": 3914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1539.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/tcp_driver.cpp",
+					"settings":
+					{
+						"buffer_size": 24595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18752,
+								18752
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5505.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "include/resultset_iterator.h",
+					"settings":
+					{
+						"buffer_size": 5153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2450,
+								2464
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1214.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"my_sys",
+				"mysql-5.6.14/include/my_sys.h"
+			],
+			[
+				"client",
+				"mysql-5.6.14/client/client_priv.h"
+			],
+			[
+				"slave",
+				"mysql-5.6.14/sql/rpl_slave.cc"
+			],
+			[
+				"slave.cc",
+				"mysql-5.6.14/sql/rpl_slave.cc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true
+}

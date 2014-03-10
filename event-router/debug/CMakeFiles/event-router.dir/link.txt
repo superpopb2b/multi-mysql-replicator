@@ -1,0 +1,2 @@
+/usr/bin/ar cr libevent-router.a  CMakeFiles/event-router.dir/src/row_event_reader.cc.o CMakeFiles/event-router.dir/src/row_event_reader_factory.cc.o
+/usr/bin/ranlib libevent-router.a
